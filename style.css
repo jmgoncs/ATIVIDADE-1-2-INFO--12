@@ -1,0 +1,17 @@
+html{
+    background-color: aliceblue;
+}
+
+h1{
+    color: aqua;
+}
+
+h2{
+    color: aquamarine;
+}
+
+header{
+    text-align: center;
+    background-color: darkgreen;
+    max-width: 70vh;
+}
